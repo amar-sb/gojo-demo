@@ -1,3 +1,5 @@
+// author: me@gojosatoru.com
+
 const { WebClient } = require('@slack/web-api')
 
 // An access token (from your Slack app or custom integration - xoxp, xoxb)
